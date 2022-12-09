@@ -23,4 +23,4 @@
 <br/>
 
 ## My stats 📊
-[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=Jean170603&amp;theme=dark&amp;show_icons=true)
+[![Jean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanPierreTL&amp;theme=dark&amp;show_icons=true)
